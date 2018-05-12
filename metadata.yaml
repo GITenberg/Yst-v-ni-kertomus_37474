@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/5981
     wikipedia: http://sv.wikipedia.org/wiki/Mathilda_Roos
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/37474#Yst-v-ni-kertomus
 gutenberg_issued: '2011-09-19'
 gutenberg_type: Text
 identifiers:
