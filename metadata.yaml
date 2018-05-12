@@ -1,0 +1,27 @@
+_repo: Yst-v-ni-kertomus_37474
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Roos, Mathilda
+    birthdate: 1852
+    deathdate: 1908
+    gutenberg_agent_id: '5981'
+    url: http://www.gutenberg.org/2009/agents/5981
+    wikipedia: http://sv.wikipedia.org/wiki/Mathilda_Roos
+description: ''
+gutenberg_issued: '2011-09-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37474'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PT'
+- !lcsh 'Swedish fiction -- Translations into Finnish'
+title: Ystäväni kertomus
+url: http://www.gutenberg.org/ebooks/37474
